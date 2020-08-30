@@ -9,6 +9,7 @@ Compiler for Hana programming language.
 5. git
 # Installation (For Linux/Mac OS/Chrome OS)
 ```bash
+sudo apt-get install git
 git clone https://github.com/Hana-India/hana.git
 cd hana
 ./install
