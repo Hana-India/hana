@@ -7,13 +7,11 @@ Compiler for Hana programming language.
 3. g++
 4. cython
 5. git
-# Installation
-
+# Installation (For Linux)
 ```bash
-git clone https://github.com/Hana-India/hana-compiler.git
-cd hana-compiler
-g++ translator.cpp -o hanac
-chmod +x compile
+git clone https://github.com/Hana-India/hana.git
+cd hana
+./install
 ```
 
 # Usage
