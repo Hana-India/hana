@@ -1,4 +1,4 @@
-![ Hana Logo ](https://github.com/Hana-India/hana-compiler/blob/master/hana.jpg)
+![ Hana Logo ](https://github.com/Hana-India/hanaindia.github.io/blob/master/hana.jpg)
 # Hana
 Compiler for Hana programming language.
 # Requirements
