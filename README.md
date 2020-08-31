@@ -3,10 +3,14 @@
 Compiler for Hana programming language.
 # Requirements
 1. Windows/Linux/Mac OS/Chrome OS
-2. python3
-3. g++
-4. cython
-5. git
+2. g++ ( For Linux/Mac OS/Chrome OS )
+3. git ( For Linux/Mac OS/Chrome OS )
+4. MinGW 64 Bit ( For Windows )
+# Installation (For Windows)
+Download MinGW 64 Bit binary.<br>
+Ensure the installation path is set to C:\MinGW\ during installation.<br>
+Download the zipped folder here and unpack.<br>
+
 # Installation (For Linux/Mac OS/Chrome OS)
 ```bash
 sudo apt-get install git
@@ -16,8 +20,16 @@ cd hana
 ```
 
 # Usage
+
 >- Save your file with .han extension
 >- DO NOT USE THE EXTENSION NAME WHILE COMPILING OR RUNNING HANA CODE
+## For Windows
+```batch
+compile.exe <your file>
+<your file>.exe
+```
+
+## For Linux/Mac OS/Chrome OS
 ```bash
 ./compile <your file>
 ./<your file>
