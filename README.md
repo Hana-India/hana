@@ -9,7 +9,7 @@ Compiler for Hana programming language.
 # Installation (For Windows)
 ### Download MinGW 64 Bit binary.<br>
 ### Ensure the installation path is set to C:\MinGW\ during installation.<br>
-### Download the zipped folder here and unpack.<br>
+### Download the zipped folder and unpack.<br>
 
 # Installation (For Linux/Mac OS/Chrome OS)
 ```bash
