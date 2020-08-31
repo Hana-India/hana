@@ -28,8 +28,7 @@ cd hana
 
 # Usage
 
->- Save your file with .han extension
->- DO NOT USE THE EXTENSION NAME WHILE COMPILING OR RUNNING HANA CODE
+### Save your file with .han extension
 ## For Windows
 ```batch
 compile.exe <your file>
