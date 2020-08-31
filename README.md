@@ -2,10 +2,10 @@
 # Hana
 Compiler for Hana programming language.
 # Requirements
-1. Windows/Linux/Mac OS/Chrome OS
-2. g++ ( For Linux/Mac OS/Chrome OS )
-3. git ( For Linux/Mac OS/Chrome OS )
-4. MinGW 64 Bit ( For Windows )
+1. g++ ( For Linux/Mac OS/Chrome OS )
+2. git ( For Linux/Mac OS/Chrome OS )
+3. MinGW 64 Bit ( For Windows )
+
 # Installation (For Windows)
 ### Download MinGW 64 Bit binary.<br>
 ### Ensure the installation path is set to C:\MinGW\ during installation.<br>
