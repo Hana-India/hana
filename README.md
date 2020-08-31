@@ -11,9 +11,16 @@ Compiler for Hana programming language.
 ### Ensure the installation path is set to C:\MinGW\ during installation.<br>
 ### Download the zipped folder and unpack.<br>
 
-# Installation (For Linux/Mac OS/Chrome OS)
+# Installation (For Linux/Chrome OS)
 ```bash
 sudo apt-get install git
+git clone https://github.com/Hana-India/hana.git
+cd hana
+./install
+```
+# Installation (For Mac OS)
+```bash
+brew install git
 git clone https://github.com/Hana-India/hana.git
 cd hana
 ./install
