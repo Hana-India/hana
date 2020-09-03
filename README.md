@@ -43,6 +43,7 @@ cd hana
 
 ### Save your file with .han extension
 ```bash
+cd bin
 ./compile <your file>
 ./<your file>
 ```
