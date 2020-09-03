@@ -6,6 +6,8 @@ Compiler for Hana programming language.
 2. git 
 3. WSL ( For Windows 10 only)
 
+# Native Windows support is currently not available
+
 # Installation (For Windows 10)
 ### Enable WSL <br>
 ##### Settings -> Apps -> Related settings -> Programs and Features -> Turn Windows features on or off -> Windows Subsystem for Linux <br>
