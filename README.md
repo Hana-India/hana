@@ -36,13 +36,6 @@ cd hana
 # Usage
 
 ### Save your file with .han extension
-## For Windows
-```batch
-compile.exe <your file>
-<your file>.exe
-```
-
-## For Linux/Mac OS/Chrome OS
 ```bash
 ./compile <your file>
 ./<your file>
