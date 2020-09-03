@@ -2,3 +2,4 @@
 var="$1.han"
 ./hanac $var
 g++ exec.cpp -o $1 -std=c++11 -pthread
+rm exec.cpp
