@@ -2,8 +2,8 @@
 # Hana
 Compiler for Hana programming language.
 # Requirements
-1. g++ ( For Linux/Mac OS/Chrome OS )
-2. git ( For Linux/Mac OS/Chrome OS )
+1. g++ 
+2. git 
 3. WSL ( For Windows 10 only)
 
 # Installation (For Windows 10)
@@ -11,6 +11,8 @@ Compiler for Hana programming language.
 ##### Settings -> Apps -> Related settings -> Programs and Features -> Turn Windows features on or off -> Windows Subsystem for Linux <br>
 ### Click OK <br>
 ### Click Restart Now <br>
+### Launch WSL <br>
+### Follow Installation guidelines for Linux as given below <br>
 
 # Installation (For Windows 7,XP,Vista)
 ### Download Virtualbox or VmWare and install Ubuntu <br>
