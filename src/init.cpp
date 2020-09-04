@@ -8,5 +8,5 @@ int main()
 	system("sudo apt-get install python3-pip");
 	system("g++ src/translator.cpp -o bin/hanac");
 	system("clear");
-	system("chmod +x compile");
+	system("chmod +x bin/compile");
 }

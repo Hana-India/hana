@@ -1,0 +1,8 @@
+main()
+{
+create number variables x,y,sum
+input x
+input y
+assign x+y to sum
+print "The sum is " sum ".\n"
+}

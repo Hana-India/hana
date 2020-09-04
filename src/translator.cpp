@@ -392,7 +392,7 @@ int main(int argc, char *argv[])
                     tokens.push_back(intermediate);
                 }
                 //cout << v << endl;
-                ifstream gen_file(v + ".gen");
+                ifstream gen_file("lib/"+v + ".gen");
                 string l, tok1, code123 = "";
                 int counter_tok = 1;
                 while (getline(gen_file, l))
