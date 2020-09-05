@@ -14,17 +14,19 @@ install.exe
 ```
 
 # Installation (For Linux/Chrome OS)
+### Download https://github.com/Hana-India/hana.git <br>
+### Unzip File <br>
+### Open Terminal <br>
 ```bash
-sudo apt-get install git
-git clone https://github.com/Hana-India/hana.git
 cd hana
 chmod +x install
 ./install
 ```
 # Installation (For Mac OS)
+### Download https://github.com/Hana-India/hana.git <br>
+### Unzip File <br>
+### Open Terminal <br>
 ```bash
-brew install git
-git clone https://github.com/Hana-India/hana.git
 cd hana
 chmod +x install
 ./install
