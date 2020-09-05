@@ -13,7 +13,7 @@ cd hana
 install.exe
 ```
 
-# Installation (For Linux/Mac OS/Chrome OS)
+# Installation (For Linux/Chrome OS/Mac OS)
 ### Download https://github.com/Hana-India/hana.git <br>
 ### Unzip File <br>
 ### Open Terminal <br>
