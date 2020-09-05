@@ -3,7 +3,6 @@
 Compiler for Hana programming language.
 # Requirements
 1. g++ (For Linux/Chrome OS/Mac OS)
-2. git (For Linux/Chrome OS/Mac OS)
 
 # Installation (For Windows)
 ### Download https://github.com/Hana-India/hana.git <br>
