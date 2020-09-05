@@ -2,27 +2,17 @@
 # Hana
 Compiler for Hana programming language.
 # Requirements
-1. g++ 
-2. git 
-3. WSL ( For Windows 10 only)
+1. g++ (For Linux/Chrome OS/Mac OS)
+2. git (For Linux/Chrome OS/Mac OS)
 
-# Native Windows support is currently not available
-
-# Installation (For Windows 10)
-### Enable WSL <br>
-##### Settings -> Apps -> Related settings -> Programs and Features -> Turn Windows features on or off -> Windows Subsystem for Linux <br>
-### Click OK <br>
-### Click Restart Now <br>
-### Launch WSL <br>
-### Follow Installation guidelines for Linux as given below <br>
-<br>
-<br>
-
-# Installation (For Windows 7,XP,Vista)
-### Download Virtualbox or VmWare and install Ubuntu <br>
-### Follow Installation guidelines for Linux as given below <br>
-<br>
-<br>
+# Installation (For Windows)
+### Download https://github.com/Hana-India/hana.git <br>
+### Unzip File <br>
+### Open CMD <br>
+```batch
+cd hana
+install.exe
+```
 
 # Installation (For Linux/Chrome OS)
 ```bash
@@ -44,6 +34,14 @@ chmod +x install
 # Usage
 
 ### Save your file with .han extension
+## For Windows
+```batch
+cd bin
+compile.exe <your file>
+<your file>.exe
+```
+
+## For Linux/Chrome OS/Mac OS
 ```bash
 cd bin
 ./compile <your file>
