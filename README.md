@@ -9,7 +9,7 @@ Compiler for Hana programming language.
 ### Unzip File <br>
 ### Open CMD <br>
 ```batch
-cd hana
+cd hana-master
 install.exe
 ```
 
@@ -18,7 +18,7 @@ install.exe
 ### Unzip File <br>
 ### Open Terminal <br>
 ```bash
-cd hana
+cd hana-master
 chmod +x install
 ./install
 ```
